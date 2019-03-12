@@ -2,6 +2,8 @@
 This is an ambitious project to make scripts that represent your state of mind and put here for all to know!
 
 # Obfuscators
+Why obfuscate? Sometimes having people not know what your code does is an even better representation of you.
+
 List all obfuscators used below:
 * https://www.online-toolz.com/tools/javascript-obfuscator.php
 
